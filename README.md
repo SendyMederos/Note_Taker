@@ -2,7 +2,7 @@
 
 ## Description
 
-This application an be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
+This application is to be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
 
 * The application frontend was already been created, my job was to build the backend and connect the two.
 
